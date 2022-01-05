@@ -24,9 +24,9 @@ Para visualizar a página do projeto finalizado, basta clicar em <strong>Cordel 
 
 <br>
 
-<a href="https://www.linkedin.com/in/reinan-khevne-b57bba228/"> <img src="imagens\linkedin.png" alt="Logo do Linkedin"></a> 
+<a href="https://www.linkedin.com/in/reinan-khevne-b57bba228/" target="_blank"> <img src="https://github.com/ReinanKhevne/cordel-moderno-vs1/blob/main/imagens/linkedin.png?raw=true" alt="Logo do Linkedin"></a> 
 
-<a href="https://www.instagram.com/reinan_kv/"> <img src="imagens\instagram.png" alt="Logo do Instagram"></a>
+<a href="https://www.instagram.com/reinan_kv/" target="_blank"> <img src="https://github.com/ReinanKhevne/cordel-moderno-vs1/blob/main/imagens/instagram.png?raw=true" alt="Logo do Instagram"></a>
 
 <br>
 
