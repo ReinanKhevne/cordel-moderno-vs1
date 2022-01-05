@@ -2,9 +2,13 @@
 
 ## Resumo
 
-O projeto <strong>Cordel Moderno</strong> foi realizado durante o curso de HTML e CSS, do <strong>Curso em Vídeo</strong> do professor Gustavo Guanabara, no qual as técnicas aprendidas foram postas em prática. O projeto tem como destaque em sua criação o efeito <strong>Parallax</strong>, que consiste em imagens fixas ao backgraund em determinadas posições da página e um texto que acompanha o rolar da página.
+O projeto <strong>Cordel Moderno</strong> foi realizado durante o curso de HTML e CSS, do <strong>Curso em Vídeo</strong> do professor Gustavo Guanabara. O projeto tem como destaque em sua criação o efeito <strong>Parallax</strong>, que consiste em imagens fixas ao backgraund em determinadas posições da página e um texto que acompanha o rolar da página, além da utilização de técnicas simples de responsividade e organização semântica do HTML.
 
 <br>
+
+## Responsividade
+
+O projeto cordel é adptável a diversos tipos de tela, inclusive às telas mobile.
 
 <center> <img src="https://github.com/ReinanKhevne/cordel-moderno-vs1/blob/main/imagens/dispositivo.png?raw=true" alt="Dispositivos"> </center>
 <br>
@@ -20,7 +24,7 @@ Para visualizar a página do projeto finalizado, basta clicar em <strong>Cordel 
 <br>
 
 ## Contato
- Siga-me pelas redes sociais abaixo e fale sobre uma colaboração em algum projeto ou apenas diga "Oi" que estarei respondendo.
+ Siga-me pelas redes sociais abaixo e fale sobre uma colaboração em algum projeto ou apenas diga "Oi", e estarei respondendo.
 
 <br>
 
