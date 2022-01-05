@@ -14,12 +14,13 @@ O projeto <strong>Cordel Moderno</strong> foi realizado durante o curso de HTML 
 Para visualizar a página do projeto finalizado, basta clicar em <strong>Cordel Moderno</strong> abaixo:
 
  
-<a href="https://reinankhevne.github.io/cordel-moderno-vs1/"><strong> >>>Cordel Moderno<<<</strong></a> 
+<a href="https://reinankhevne.github.io/cordel-moderno-vs1/" target="_blank"><strong> >>>Cordel Moderno<<<</strong></a> 
 
 
 <br>
 
 ## Contato
+ Siga-me pelas redes sociais abaixo e fale sobre uma colaboração em algum projeto ou apenas diga "Oi" que estarei respondendo.
 
 <br>
 
@@ -30,6 +31,7 @@ Para visualizar a página do projeto finalizado, basta clicar em <strong>Cordel 
 <br>
 
 ## Créditos 
+ A poesia utilizada no projeto é do autor <a href="https://miltonduarte.recantodasletras.com.br/livros.php#6542"> <strong>Milton Duarte</strong></a>, e todos os direitos são reservados a ele.
 <br>
 
 
