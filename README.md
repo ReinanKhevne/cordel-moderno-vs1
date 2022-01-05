@@ -1,4 +1,4 @@
-# Cordel-Moderno-Vs1
+# CORDEL MODERNO
 
 ## Resumo
 
@@ -6,7 +6,7 @@ O projeto <strong>cordel moderno</strong> foi realizado durante o curso de HTML 
 
 <br>
 
-<center> <img src="#" alt="Dispositivos"> </center>
+<center> <img src="https://github.com/ReinanKhevne/cordel-moderno-vs1/blob/main/imagens/imagem%20da%20responsividade.png?raw=true" alt="Dispositivos"> </center>
 <br>
 
 ## Tecnologias Usadas
@@ -25,3 +25,11 @@ Para visualizar a página do projeto finalizado, basta clicar em <strong>Cordel 
 <a href="#"><strong> >>>Cordel Moderno<<<</strong></a> 
 </center>
 
+<br>
+
+## Contato
+
+<br>
+
+* <button> <img src="#" alt="Logo do Linkedin"> </button>
+* <button> <img src="#" alt="Logo do Instagram"> </button>
